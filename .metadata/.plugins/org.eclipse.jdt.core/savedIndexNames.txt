@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+G:\YGIT\Analysis-and-Design-of-Algorithms\.metadata\.plugins\org.eclipse.jdt.core
+1563940029.index
+3459762164.index
+1495023025.index
+824993535.index
+3423445029.index
+1401902998.index
+899040194.index
+1027240561.index
+928644577.index
+1394910552.index
+2997338539.index
